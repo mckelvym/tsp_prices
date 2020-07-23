@@ -1,0 +1,14 @@
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: 3W6NDJ7KCWCWEXBR</li>
+<li>HostId: 5f6sCDtvA7I+E15NY2/IvuoQIiF72uwg8zr5w577cm58iqUwivCekIvNk9difRLsKiuqcw+wRPU=</li>
+</ul>
+<hr/>
+</body>
+</html>
