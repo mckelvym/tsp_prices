@@ -1,4 +1,3 @@
-# tsp_prices
+# TSP Prices
 
-https://www.tsp.gov/fund-performance/share-price-history/
-
+[https://www.scholarshare529.com/investment/price-performance](https://www.scholarshare529.com/investment/price-performance)
