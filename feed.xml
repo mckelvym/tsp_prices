@@ -5,6 +5,15 @@
     <link>https://github.com/mckelvym/tsp_prices</link>
     <description>Daily TSP Price Data</description>
     <item>
+      <title>Price Summary for 2026-02-18</title>
+      <link>https://github.com/mckelvym/tsp_prices/blob/master/tspsharePriceHistory.csv</link>
+      <description>&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;G Fund&lt;/td&gt;&lt;td&gt;19.7010&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;F Fund&lt;/td&gt;&lt;td&gt;21.1444&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C Fund&lt;/td&gt;&lt;td&gt;110.2518&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S Fund&lt;/td&gt;&lt;td&gt;104.6182&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I Fund&lt;/td&gt;&lt;td&gt;61.0549&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+      <category>daily-prices</category>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+      <guid>https://github.com/mckelvym/tsp_prices/blob/master/tspsharePriceHistory.csv</guid>
+      <dc:date>2026-02-19T00:00:00Z</dc:date>
+    </item>
+    <item>
       <title>Price Summary for 2026-02-17</title>
       <link>https://github.com/mckelvym/tsp_prices/blob/master/tspsharePriceHistory.csv</link>
       <description>&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;G Fund&lt;/td&gt;&lt;td&gt;19.6987&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;F Fund&lt;/td&gt;&lt;td&gt;21.1710&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C Fund&lt;/td&gt;&lt;td&gt;109.6381&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S Fund&lt;/td&gt;&lt;td&gt;103.9003&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I Fund&lt;/td&gt;&lt;td&gt;60.7361&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
